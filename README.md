@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PtPoint
+- 👀 I’m interested in GUI programming
+- 🌱 I’m currently learning dart language
+- 💞️ I’m looking to collaborate on anything I can
+- 📫 How to reach me ... just raise an issue and I will read it
